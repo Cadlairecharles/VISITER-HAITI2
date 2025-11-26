@@ -13,3 +13,4 @@
 - [ ] A notification is shown if the card was created successfully
 - [ ] User can also enter multiple choice answers when creating a card
 - [ ] App is further styled and customized!
+![ezgif2](https://github.com/user-attachments/assets/0c790741-ed9a-4cd4-84e9-79636980db72)
